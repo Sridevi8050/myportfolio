@@ -5,7 +5,7 @@
 
     return (
     <div>
-      <div className="flex pt-7 pl-24 sm:space-x-72">
+      <div className="flex pt-7 pl-24 w-full max-w-md md:max-w-lg lg:max-w-xl">
         <h1 className="font-bold text-bold text-2xl pl-7">SRIDEVI</h1>
         <ul className="flex justify-evenly align-middle pl-48 space-x-14">
             <li>
